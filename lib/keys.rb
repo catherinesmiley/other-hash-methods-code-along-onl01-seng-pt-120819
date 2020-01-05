@@ -12,3 +12,22 @@ require 'pry'
 #   groceries.keys
 #   #code your solution here!
 # end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def get_the_keys(groceries)
+end
